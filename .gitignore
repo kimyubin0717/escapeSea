@@ -1,0 +1,20 @@
+# Unreal generated project files
+/Binaries/
+/Build/Windows/FileOpenOrder/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+Plugins/**/Intermediate/
+
+# Local IDE settings and generated solutions
+/.vs/
+/.idea/
+*.sln
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Local release output
+/EscapeSeaRelease/
+/이스케이프 씨.zip
