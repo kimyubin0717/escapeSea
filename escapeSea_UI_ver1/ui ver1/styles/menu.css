@@ -1,0 +1,41 @@
+.timer{width:auto;padding:0;border:0;background:none;box-shadow:none;top:25px}
+.timer strong{font-size:34px;letter-spacing:4px;line-height:1.2}
+.title-ocean{position:absolute;inset:0;overflow:hidden;background:radial-gradient(ellipse at 64% -20%,#123641 0,transparent 58%),linear-gradient(#031016,#061b23 50%,#01090e)}
+.ocean-rays{position:absolute;inset:-200px;background:repeating-conic-gradient(from 160deg at 65% -15%,transparent 0deg 7deg,#6bd2e60b 8deg 11deg,transparent 13deg 21deg);filter:blur(20px);animation:water-rays 24s ease-in-out infinite alternate}
+.ocean-haze{position:absolute;inset:0;background:radial-gradient(ellipse at 75% 46%,#34687830,transparent 60%);filter:blur(45px)}
+.leviathan{position:absolute;fill:#00080c;width:1680px;height:520px;left:0;top:210px;filter:blur(5px);opacity:0;animation:shadow-pass 36s linear infinite;will-change:transform,opacity}
+.leviathan-far{width:1000px;height:310px;top:80px;filter:blur(10px);animation:shadow-pass-far 53s linear infinite;animation-delay:-17s;fill:#001018}
+.ocean-dust{position:absolute;inset:-150px;background-image:radial-gradient(circle,#8ad5d940 1px,transparent 2px),radial-gradient(circle,#72c7da22 1px,transparent 2px),radial-gradient(circle,#72c7da19 2px,transparent 3px);background-size:143px 167px,239px 211px,379px 313px;background-position:0 0,48px 83px,17px 150px;animation:marine-snow 45s linear infinite;opacity:.55}
+.ocean-vignette{position:absolute;inset:0;background:linear-gradient(90deg,#00090fe8,transparent 77%),radial-gradient(ellipse,transparent 30%,#00050bbd 100%)}
+.main-menu{position:absolute;left:145px;top:145px;width:470px}
+.menu-coordinate{font-size:11px;letter-spacing:4px;color:#6d9aa8}
+.main-menu h1{font-size:108px;font-weight:400;letter-spacing:24px;color:#cffaff;margin:26px 0 0;line-height:1.1;text-shadow:0 0 45px #44ddff2b}
+.menu-subtitle{font-size:19px;letter-spacing:6px;color:#7ec9d6;margin:14px 0 38px}
+.menu-rule{width:65px;height:1px;background:#7cd6e4;box-shadow:0 0 15px #51defc;margin-bottom:23px}
+.main-menu nav{display:flex;flex-direction:column;gap:6px}
+.main-menu nav button{display:flex;align-items:center;justify-content:space-between;width:420px;border:1px solid transparent;border-left:1px solid #62bfd044;border-radius:0;background:linear-gradient(90deg,#255c6d18,transparent);padding:17px 22px;text-align:left;color:#afd3dc;font:18px Consolas,'Malgun Gothic',sans-serif;transition:background .2s,border-color .2s,transform .2s;cursor:pointer}
+.main-menu nav button small{font:10px Consolas,monospace;letter-spacing:2px;color:#6793a0}
+.main-menu nav button:hover:not(:disabled),.main-menu nav button:focus-visible{background:linear-gradient(90deg,#39c9e32d,#0a3c4a13);border-color:#5fc4d84d;border-left:2px solid #a1f3ff;color:#dcfcff;transform:translateX(6px);outline:none;box-shadow:-8px 0 25px #52ddfa08}
+.main-menu nav button:disabled{opacity:.35;cursor:default}
+.menu-save-note{font-size:11px;color:#567c89;line-height:1.8;margin-top:20px;max-width:420px}
+.menu-bottom{position:absolute;left:56px;right:56px;bottom:36px;display:flex;justify-content:space-between;color:#4c7480;font-size:11px;letter-spacing:3px}
+.menu-modal-shade{position:absolute;inset:0;background:#000b13b8;backdrop-filter:blur(9px);z-index:25}
+.menu-modal{left:420px;top:90px;width:760px;height:720px;padding:30px 38px;z-index:26}
+.menu-modal .title{font-size:22px;letter-spacing:2px}
+.manual-objective{color:#99c1cc;font:15px/1.8 'Malgun Gothic',sans-serif;margin:22px 0}
+.menu-modal dl{margin:18px 0}
+.menu-modal dl>div{display:flex;padding:7px 0;border-bottom:1px solid #79d2e51a;font:14px 'Malgun Gothic',sans-serif}
+.menu-modal dt{width:165px;color:#b0eff9;font-family:Consolas,'Malgun Gothic',monospace}
+.menu-modal dd{margin:0;color:#83abb8}
+.manual-note{font:12px/1.9 'Malgun Gothic',sans-serif;color:#668e9e}
+.menu-modal button{padding:11px 28px;margin-top:10px;border-color:#4aa9bb80;color:#b7eefa;background:#1b536b44}
+.quit-modal{top:280px;height:340px;text-align:center}
+.quit-modal h2{font:24px 'Malgun Gothic',sans-serif;color:#bfeef5;margin:32px 0 22px}
+.quit-modal p{color:#80adba;font:14px/1.8 'Malgun Gothic',sans-serif}
+.quit-modal .quit-note{font-size:12px;color:#587e8f}
+@keyframes shadow-pass{0%{transform:translate(1500px,-50px) rotate(-4deg);opacity:0}8%{opacity:.78}52%{opacity:.9}78%{transform:translate(-1850px,90px) rotate(5deg);opacity:0}100%{transform:translate(-1850px,90px);opacity:0}}
+@keyframes shadow-pass-far{0%{transform:translate(-1200px,0) scaleX(-1);opacity:0}15%{opacity:.45}70%{opacity:.5}90%,100%{transform:translate(1800px,40px) scaleX(-1);opacity:0}}
+@keyframes marine-snow{to{transform:translate(70px,-167px)}}
+@keyframes water-rays{to{transform:translateX(60px) rotate(4deg);opacity:.6}}
+.leviathan-near{animation-delay:-9s}
+@media(prefers-reduced-motion:reduce){.leviathan{animation:none;transform:translate(610px,-40px);opacity:.45}.leviathan-far{transform:translate(200px,-50px) scaleX(-1);opacity:.2}.ocean-dust,.ocean-rays{animation:none}}
