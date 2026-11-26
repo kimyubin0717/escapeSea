@@ -8,12 +8,11 @@ Git과 Git LFS를 설치한 뒤 다음 명령으로 내려받습니다.
 
 ```powershell
 git lfs install
-git clone https://github.com/kimyubin0717/digital-twin-project.git
-cd digital-twin-project
+git clone https://github.com/kimyubin0717/escapeSea.git
+cd escapeSea
 git lfs pull
 ```
 
-비공개 저장소이므로 저장소 접근 권한이 있는 GitHub 계정으로 인증해야 합니다.
 맵·모델·텍스처는 Git LFS로 관리합니다. 위 명령으로 실제 에셋을 내려받으세요.
 
 ## 실행
