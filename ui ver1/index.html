@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>어비스 · 마지막 빛 — UI 미리보기</title>
+  <link rel="stylesheet" href="styles/styles.css">
+  <link rel="stylesheet" href="styles/hologram.css">
+  <link rel="stylesheet" href="styles/menu.css">
+  <link rel="stylesheet" href="styles/inventory-telemetry.css">
+  <link rel="stylesheet" href="styles/korean.css">
+  <link rel="stylesheet" href="styles/runtime.css">
+</head>
+<body>
+  <header class="toolbar">
+    <div><strong>어비스 <span>/ UI 미리보기</span></strong><small>마지막 빛 · 게임 화면 미리보기</small></div>
+    <label>화면 상태 <select id="scenario" aria-label="화면 상태"></select></label>
+    <button id="home">시작화면 · ESC</button><button id="equipment">장비창 · TAB</button><button id="restart">초기화 · R</button>
+    <label><input id="background" type="checkbox" checked> 배경 표시</label>
+  </header>
+  <main>
+    <div id="viewport"><div id="screen" role="region" tabindex="0" aria-label="게임 UI 미리보기"></div></div>
+    <aside class="controls">
+      <div><h1>실시간 상태 조절</h1><p>게임과 연결되지 않은 미리보기입니다. TAB 장비 · Q 산소 · F 조명 · E 상호작용 · SPACE 회수 판정</p></div>
+      <div class="fields">
+        <label>산소 <output id="oxygenValue"></output><input id="oxygen" type="range" min="0" max="100"></label>
+        <label>배터리 <output id="batteryValue"></output><input id="battery" type="range" min="0" max="120"></label>
+        <label>체력 <output id="healthValue"></output><input id="health" type="range" min="0" max="100"></label>
+        <label>예비 산소통<input id="tanks" type="number" min="0" max="99"></label>
+        <label>전력 전지<input id="part0" type="number" min="0" max="99"></label>
+        <label>선체 합금<input id="part1" type="number" min="0" max="99"></label>
+        <label>추진 부품<input id="part2" type="number" min="0" max="99"></label>
+      </div>
+      <p id="description" aria-live="polite"></p>
+    </aside>
+  </main>
+  <script src="scripts/ko.js"></script>
+  <script src="scripts/inventory.js"></script>
+  <script src="scripts/menu.js"></script>
+  <script src="scripts/app.js"></script>
+  <script src="scripts/runtime.js"></script>
+</body>
+</html>

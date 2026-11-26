@@ -1,0 +1,7 @@
+{
+  "roads": "SM_CityStreetGrid",
+  "terrain": "SM_CityBlockTerrain",
+  "markings": "SM_CityStreetMarkings",
+  "rim": "SM_CitySeabedRim",
+  "plaza": "SM_CityCivicPaving"
+}

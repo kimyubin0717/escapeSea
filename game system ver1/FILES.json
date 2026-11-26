@@ -1,0 +1,73 @@
+{
+  "version": "game system ver1",
+  "scope": "menu, new/continue/restart, save/load, inventory restore, runtime bridge",
+  "standalone_project": false,
+  "source_files": [
+    {
+      "path": "Source/mama/Public/Save/AbyssSaveService.h",
+      "role": "저장 서비스 공개 계약",
+      "bytes": 379,
+      "sha256": "d10021fb3b9ba58971c6bb13ef6f245f75ed9a7acb6cb8c17d7a12d07adeb59d"
+    },
+    {
+      "path": "Source/mama/Private/Save/AbyssSaveService.cpp",
+      "role": "세이브 경로·기록 확인·저장·불러오기·복원 검증",
+      "bytes": 5344,
+      "sha256": "214c561d9ed4b78b7eadf8530e14dc8b4f2e29b8b0836191594803191618f3fa"
+    },
+    {
+      "path": "Source/mama/Public/UI/AbyssUIComponent.h",
+      "role": "게임 UI 연결 컴포넌트 공개 계약",
+      "bytes": 1047,
+      "sha256": "bfc50056600d683d83631e76f6b4bc4a24147ee1752543ece3f80921d287f742"
+    },
+    {
+      "path": "Source/mama/Private/UI/AbyssUIComponent.cpp",
+      "role": "HTML 브라우저 수명·게임 연결·5초 자동 저장",
+      "bytes": 4410,
+      "sha256": "ccbdfe3080026107d9c6b9acc44ea9fd856a600d43df2dd9daef23442c4178e5"
+    },
+    {
+      "path": "Source/mama/Private/UI/AbyssUIActions.cpp",
+      "role": "새로하기·이어하기·메뉴 복귀·종료·재시작·플레이 입력 라우팅",
+      "bytes": 2740,
+      "sha256": "e7b5c6b5b3a3fa95ca8912d14ac2fe7abaff57ebc000451da04e78a1d9b2a39c"
+    },
+    {
+      "path": "Source/mama/Private/UI/AbyssUIState.cpp",
+      "role": "메뉴 상태·이어하기 가능 여부·게임 상태를 UI에 전달",
+      "bytes": 2963,
+      "sha256": "43d89132d5db6fb3249b7b2994fd1f95b9ed1ebf4efdf3b2417d97ada3eb2c06"
+    },
+    {
+      "path": "Source/mama/Public/Inventory/AbyssInventoryComponent.h",
+      "role": "인벤토리 공개 계약",
+      "bytes": 745,
+      "sha256": "4f631a2da5d4cb83725ad86eddfd7171517fa48db11f32f855f7cc182e1b764b"
+    },
+    {
+      "path": "Source/mama/Private/Inventory/AbyssInventoryComponent.cpp",
+      "role": "아이템 배치·JSON 저장·인벤토리 복원",
+      "bytes": 3547,
+      "sha256": "91be93ff81deb293160c958cb04339371f274d6a0b09050cd3c80d922ae92af0"
+    },
+    {
+      "path": "Content/UI/scripts/menu.js",
+      "role": "메뉴 표시와 독립 HTML 미리보기의 새로하기·이어하기",
+      "bytes": 6998,
+      "sha256": "6c095965e9cc08279703fc841aee1577975cb900e3bd3f48ca885f71f28693c3"
+    },
+    {
+      "path": "Content/UI/scripts/runtime.js",
+      "role": "실제 게임 메뉴 명령 송신·C++ 상태 수신; UI ver1과 같은 파일",
+      "bytes": 2132,
+      "sha256": "dcf3e24a692bad936dfa1bb4561ab7f855be77345c251ef181ca7bd3c27435c2"
+    },
+    {
+      "path": "Tools/test_runtime.cjs",
+      "role": "런타임 입력·상태 계약 테스트 (전체 UI가 있을 때 실행)",
+      "bytes": 3527,
+      "sha256": "b7c607ebafed7d0a32573d2f115d7a144e4fb9a009b417222c4b55f4cff90a62"
+    }
+  ]
+}

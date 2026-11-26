@@ -1,0 +1,823 @@
+{
+  "diagonals": [
+    [
+      [
+        120.0,
+        -57.5
+      ],
+      [
+        167.0,
+        0.0
+      ]
+    ],
+    [
+      [
+        -120.0,
+        -125.0
+      ],
+      [
+        -91.0,
+        -170.0
+      ]
+    ],
+    [
+      [
+        -120.0,
+        140.5
+      ],
+      [
+        -156.33333333333334,
+        110.0
+      ]
+    ]
+  ],
+  "roundabout": {
+    "x": -120.0,
+    "y": 110.0,
+    "r": 10.8
+  },
+  "lots": [
+    {
+      "x": 157.366,
+      "y": -38.964,
+      "yaw": -39.262,
+      "scale": 1,
+      "height_scale": 1.07,
+      "model": "KestrelTower",
+      "extent": [
+        151.58296242250347,
+        -44.718693742604664,
+        163.14968740158807,
+        -33.208525807721664
+      ],
+      "frontage": "diagonal"
+    },
+    {
+      "x": 145.975,
+      "y": -52.9,
+      "yaw": -39.262,
+      "scale": 1,
+      "height_scale": 0.86,
+      "model": "SwitchbackArcade",
+      "extent": [
+        139.81122240141886,
+        -58.97882641619998,
+        152.13806823305774,
+        -46.821651717165906
+      ],
+      "frontage": "diagonal"
+    },
+    {
+      "x": -93.083,
+      "y": -135.016,
+      "yaw": 32.8,
+      "scale": 1,
+      "height_scale": 1.0,
+      "model": "TidalExchange",
+      "extent": [
+        -99.31822710233189,
+        -141.22116460939128,
+        -86.84786793900477,
+        -128.81057712470675
+      ],
+      "frontage": "diagonal"
+    },
+    {
+      "x": -153.27,
+      "y": 135.028,
+      "yaw": -229.988,
+      "scale": 1,
+      "height_scale": 1.12,
+      "model": "PrismResidences",
+      "extent": [
+        -158.8351015503366,
+        129.4633048059422,
+        -147.7051246399562,
+        140.59328171632256
+      ],
+      "frontage": "diagonal"
+    },
+    {
+      "x": -80.5,
+      "y": -125.85,
+      "yaw": -90,
+      "scale": 1,
+      "height_scale": 1.12,
+      "model": "KestrelTower",
+      "extent": [
+        -84.5,
+        -130.04999999999998,
+        -76.5,
+        -121.64999999999999
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -70.0,
+      "y": -125.85,
+      "yaw": -90,
+      "scale": 1,
+      "height_scale": 0.86,
+      "model": "SwitchbackArcade",
+      "extent": [
+        -74.05,
+        -130.5,
+        -65.95,
+        -121.19999999999999
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -59.5,
+      "y": -125.85,
+      "yaw": -90,
+      "scale": 1,
+      "height_scale": 1.0,
+      "model": "TidalExchange",
+      "extent": [
+        -63.95,
+        -130.4,
+        -55.05,
+        -121.3
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 27.5,
+      "y": 20.85,
+      "yaw": 90,
+      "scale": 1,
+      "height_scale": 1.0,
+      "model": "PrismResidences",
+      "extent": [
+        23.55,
+        16.900000000000002,
+        31.45,
+        24.8
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -49.0,
+      "y": -125.85,
+      "yaw": -90,
+      "scale": 1,
+      "height_scale": 0.86,
+      "model": "KestrelTower",
+      "extent": [
+        -53.0,
+        -130.04999999999998,
+        -45.0,
+        -121.64999999999999
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -21.85,
+      "y": 36.5,
+      "yaw": 180,
+      "scale": 1,
+      "height_scale": 1.0,
+      "model": "SwitchbackArcade",
+      "extent": [
+        -26.500000000000004,
+        32.45,
+        -17.2,
+        40.55
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -21.85,
+      "y": 47.0,
+      "yaw": 180,
+      "scale": 1,
+      "height_scale": 0.86,
+      "model": "TidalExchange",
+      "extent": [
+        -26.400000000000002,
+        42.55,
+        -17.3,
+        51.45
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 66.5,
+      "y": 20.85,
+      "yaw": 90,
+      "scale": 1,
+      "height_scale": 1.12,
+      "model": "PrismResidences",
+      "extent": [
+        62.55,
+        16.900000000000002,
+        70.45,
+        24.8
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -38.5,
+      "y": -125.85,
+      "yaw": -90,
+      "scale": 1,
+      "height_scale": 1.07,
+      "model": "KestrelTower",
+      "extent": [
+        -42.5,
+        -130.04999999999998,
+        -34.5,
+        -121.64999999999999
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -28.0,
+      "y": -125.85,
+      "yaw": -90,
+      "scale": 1,
+      "height_scale": 1.12,
+      "model": "SwitchbackArcade",
+      "extent": [
+        -32.05,
+        -130.5,
+        -23.95,
+        -121.19999999999999
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 48.5,
+      "y": -20.85,
+      "yaw": -90,
+      "scale": 1,
+      "height_scale": 0.86,
+      "model": "TidalExchange",
+      "extent": [
+        44.05,
+        -25.400000000000002,
+        52.95,
+        -16.3
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 59.0,
+      "y": -20.85,
+      "yaw": -90,
+      "scale": 1,
+      "height_scale": 1.07,
+      "model": "PrismResidences",
+      "extent": [
+        55.05,
+        -24.8,
+        62.95,
+        -16.900000000000002
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 69.5,
+      "y": -20.85,
+      "yaw": -90,
+      "scale": 1,
+      "height_scale": 0.86,
+      "model": "KestrelTower",
+      "extent": [
+        65.5,
+        -25.05,
+        73.5,
+        -16.650000000000002
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 80.0,
+      "y": -20.85,
+      "yaw": -90,
+      "scale": 1,
+      "height_scale": 1.07,
+      "model": "SwitchbackArcade",
+      "extent": [
+        75.95,
+        -25.5,
+        84.05,
+        -16.200000000000003
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 21.85,
+      "y": 36.5,
+      "yaw": 0,
+      "scale": 1,
+      "height_scale": 1.12,
+      "model": "TidalExchange",
+      "extent": [
+        17.3,
+        32.05,
+        26.400000000000002,
+        40.95
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 21.85,
+      "y": 47.0,
+      "yaw": 0,
+      "scale": 1,
+      "height_scale": 0.94,
+      "model": "PrismResidences",
+      "extent": [
+        17.900000000000002,
+        43.05,
+        25.8,
+        50.95
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 21.85,
+      "y": 57.5,
+      "yaw": 0,
+      "scale": 1,
+      "height_scale": 1.12,
+      "model": "KestrelTower",
+      "extent": [
+        17.650000000000002,
+        53.5,
+        26.05,
+        61.5
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 21.85,
+      "y": 68.0,
+      "yaw": 0,
+      "scale": 1,
+      "height_scale": 0.94,
+      "model": "SwitchbackArcade",
+      "extent": [
+        17.200000000000003,
+        63.95,
+        26.5,
+        72.05
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -21.85,
+      "y": 68.0,
+      "yaw": 180,
+      "scale": 1,
+      "height_scale": 0.86,
+      "model": "TidalExchange",
+      "extent": [
+        -26.400000000000002,
+        63.55,
+        -17.3,
+        72.45
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 21.85,
+      "y": 78.5,
+      "yaw": 0,
+      "scale": 1,
+      "height_scale": 0.94,
+      "model": "PrismResidences",
+      "extent": [
+        17.900000000000002,
+        74.55,
+        25.8,
+        82.45
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -21.85,
+      "y": -136.0,
+      "yaw": 180,
+      "scale": 1,
+      "height_scale": 0.86,
+      "model": "KestrelTower",
+      "extent": [
+        -26.050000000000004,
+        -140.0,
+        -17.65,
+        -132.0
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -21.85,
+      "y": 23.0,
+      "yaw": 180,
+      "scale": 1,
+      "height_scale": 0.94,
+      "model": "SwitchbackArcade",
+      "extent": [
+        -26.500000000000004,
+        18.95,
+        -17.2,
+        27.05
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -32.5,
+      "y": 20.85,
+      "yaw": 90,
+      "scale": 1,
+      "height_scale": 1.07,
+      "model": "TidalExchange",
+      "extent": [
+        -36.95,
+        16.3,
+        -28.05,
+        25.400000000000002
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -43.0,
+      "y": 20.85,
+      "yaw": 90,
+      "scale": 1,
+      "height_scale": 0.94,
+      "model": "PrismResidences",
+      "extent": [
+        -46.95,
+        16.900000000000002,
+        -39.05,
+        24.8
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -53.5,
+      "y": 20.85,
+      "yaw": 90,
+      "scale": 1,
+      "height_scale": 1.07,
+      "model": "KestrelTower",
+      "extent": [
+        -57.5,
+        16.650000000000002,
+        -49.5,
+        25.05
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -64.0,
+      "y": 20.85,
+      "yaw": 90,
+      "scale": 1,
+      "height_scale": 0.94,
+      "model": "SwitchbackArcade",
+      "extent": [
+        -68.05,
+        16.200000000000003,
+        -59.95,
+        25.5
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 23.0,
+      "y": -94.15,
+      "yaw": 90,
+      "scale": 1,
+      "height_scale": 0.94,
+      "model": "TidalExchange",
+      "extent": [
+        18.55,
+        -98.7,
+        27.45,
+        -89.60000000000001
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 21.85,
+      "y": -83.5,
+      "yaw": 0,
+      "scale": 1,
+      "height_scale": 1.07,
+      "model": "PrismResidences",
+      "extent": [
+        17.900000000000002,
+        -87.45,
+        25.8,
+        -79.55
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 33.5,
+      "y": -94.15,
+      "yaw": 90,
+      "scale": 1,
+      "height_scale": 1.12,
+      "model": "KestrelTower",
+      "extent": [
+        29.5,
+        -98.35000000000001,
+        37.5,
+        -89.95
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -77.5,
+      "y": -20.85,
+      "yaw": -90,
+      "scale": 1,
+      "height_scale": 1.12,
+      "model": "SwitchbackArcade",
+      "extent": [
+        -81.55,
+        -25.5,
+        -73.45,
+        -16.200000000000003
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -88.0,
+      "y": -20.85,
+      "yaw": -90,
+      "scale": 1,
+      "height_scale": 0.94,
+      "model": "TidalExchange",
+      "extent": [
+        -92.45,
+        -25.400000000000002,
+        -83.55,
+        -16.3
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -98.5,
+      "y": -20.85,
+      "yaw": -90,
+      "scale": 1,
+      "height_scale": 1.12,
+      "model": "PrismResidences",
+      "extent": [
+        -102.45,
+        -24.8,
+        -94.55,
+        -16.900000000000002
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -104.15,
+      "y": -31.0,
+      "yaw": 0,
+      "scale": 1,
+      "height_scale": 1.0,
+      "model": "KestrelTower",
+      "extent": [
+        -108.35000000000001,
+        -35.0,
+        -99.95,
+        -27.0
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -104.15,
+      "y": -41.5,
+      "yaw": 0,
+      "scale": 1,
+      "height_scale": 1.12,
+      "model": "SwitchbackArcade",
+      "extent": [
+        -108.80000000000001,
+        -45.55,
+        -99.5,
+        -37.45
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -104.15,
+      "y": -52.0,
+      "yaw": 0,
+      "scale": 1,
+      "height_scale": 1.0,
+      "model": "TidalExchange",
+      "extent": [
+        -108.7,
+        -56.45,
+        -99.60000000000001,
+        -47.55
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 71.0,
+      "y": 94.15,
+      "yaw": -90,
+      "scale": 1,
+      "height_scale": 1.07,
+      "model": "PrismResidences",
+      "extent": [
+        67.05,
+        90.2,
+        74.95,
+        98.10000000000001
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -104.15,
+      "y": -62.5,
+      "yaw": 0,
+      "scale": 1,
+      "height_scale": 0.94,
+      "model": "KestrelTower",
+      "extent": [
+        -108.35000000000001,
+        -66.5,
+        -99.95,
+        -58.5
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 21.85,
+      "y": -56.5,
+      "yaw": 0,
+      "scale": 1,
+      "height_scale": 0.94,
+      "model": "SwitchbackArcade",
+      "extent": [
+        17.200000000000003,
+        -60.55,
+        26.5,
+        -52.45
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 21.85,
+      "y": -46.0,
+      "yaw": 0,
+      "scale": 1,
+      "height_scale": 1.07,
+      "model": "TidalExchange",
+      "extent": [
+        17.3,
+        -50.45,
+        26.400000000000002,
+        -41.55
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 21.85,
+      "y": -35.5,
+      "yaw": 0,
+      "scale": 1,
+      "height_scale": 1.12,
+      "model": "PrismResidences",
+      "extent": [
+        17.900000000000002,
+        -39.45,
+        25.8,
+        -31.55
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 135.85,
+      "y": 36.5,
+      "yaw": 0,
+      "scale": 1,
+      "height_scale": 0.86,
+      "model": "KestrelTower",
+      "extent": [
+        131.65,
+        32.5,
+        140.04999999999998,
+        40.5
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 135.85,
+      "y": 26.0,
+      "yaw": 0,
+      "scale": 1,
+      "height_scale": 0.94,
+      "model": "SwitchbackArcade",
+      "extent": [
+        131.2,
+        21.95,
+        140.5,
+        30.05
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 147.5,
+      "y": 20.85,
+      "yaw": 90,
+      "scale": 1,
+      "height_scale": 0.86,
+      "model": "TidalExchange",
+      "extent": [
+        143.05,
+        16.3,
+        151.95,
+        25.400000000000002
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 158.0,
+      "y": 20.85,
+      "yaw": 90,
+      "scale": 1,
+      "height_scale": 1.0,
+      "model": "PrismResidences",
+      "extent": [
+        154.05,
+        16.900000000000002,
+        161.95,
+        24.8
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": 166.15,
+      "y": 30.5,
+      "yaw": 180,
+      "scale": 1,
+      "height_scale": 1.0,
+      "model": "KestrelTower",
+      "extent": [
+        161.95000000000002,
+        26.5,
+        170.35,
+        34.5
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -68.5,
+      "y": 94.15,
+      "yaw": -90,
+      "scale": 1,
+      "height_scale": 1.07,
+      "model": "SwitchbackArcade",
+      "extent": [
+        -72.55,
+        89.5,
+        -64.45,
+        98.80000000000001
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -58.0,
+      "y": 94.15,
+      "yaw": -90,
+      "scale": 1,
+      "height_scale": 0.94,
+      "model": "TidalExchange",
+      "extent": [
+        -62.45,
+        89.60000000000001,
+        -53.55,
+        98.7
+      ],
+      "frontage": "grid"
+    },
+    {
+      "x": -104.15,
+      "y": -73.0,
+      "yaw": 0,
+      "scale": 1,
+      "height_scale": 1.12,
+      "model": "PrismResidences",
+      "extent": [
+        -108.10000000000001,
+        -76.95,
+        -100.2,
+        -69.05
+      ],
+      "frontage": "grid"
+    }
+  ],
+  "min_gap": 1.5,
+  "lots_with_narrow_alleys": 47
+}

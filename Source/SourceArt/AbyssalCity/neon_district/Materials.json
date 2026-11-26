@@ -1,0 +1,206 @@
+{
+  "CurtainGlass": {
+    "color": [
+      0.022,
+      0.115,
+      0.172
+    ],
+    "roughness": 0.16,
+    "metallic": 0.27,
+    "emission": 0,
+    "texture": "T_Neon_CurtainGlass_BC.png",
+    "coat": 0.28
+  },
+  "BlueCeramic": {
+    "color": [
+      0.038,
+      0.19,
+      0.22
+    ],
+    "roughness": 0.23,
+    "metallic": 0.32,
+    "emission": 0,
+    "texture": "T_Neon_BlueCeramic_BC.png",
+    "coat": 0.28
+  },
+  "PearlEnamel": {
+    "color": [
+      0.34,
+      0.43,
+      0.4
+    ],
+    "roughness": 0.24,
+    "metallic": 0.29,
+    "emission": 0,
+    "texture": "T_Neon_PearlEnamel_BC.png",
+    "coat": 0.28
+  },
+  "OxideAlloy": {
+    "color": [
+      0.27,
+      0.085,
+      0.048
+    ],
+    "roughness": 0.21,
+    "metallic": 0.71,
+    "emission": 0,
+    "texture": "T_Neon_OxideAlloy_BC.png",
+    "coat": 0.28
+  },
+  "Graphite": {
+    "color": [
+      0.055,
+      0.075,
+      0.094
+    ],
+    "roughness": 0.24,
+    "metallic": 0.68,
+    "emission": 0,
+    "texture": "T_Neon_Graphite_BC.png",
+    "coat": 0
+  },
+  "WindowDark": {
+    "color": [
+      0.021,
+      0.045,
+      0.064
+    ],
+    "roughness": 0.12,
+    "metallic": 0.22,
+    "emission": 0,
+    "texture": "T_Neon_WindowDark_BC.png",
+    "coat": 0
+  },
+  "Foundation": {
+    "color": [
+      0.095,
+      0.132,
+      0.143
+    ],
+    "roughness": 0.51,
+    "metallic": 0.24,
+    "emission": 0,
+    "texture": null,
+    "coat": 0
+  },
+  "Roof": {
+    "color": [
+      0.118,
+      0.185,
+      0.19
+    ],
+    "roughness": 0.32,
+    "metallic": 0.38,
+    "emission": 0,
+    "texture": "T_Neon_Roof_BC.png",
+    "coat": 0
+  },
+  "Cyan": {
+    "color": [
+      0.022,
+      0.52,
+      0.68
+    ],
+    "roughness": 0.25,
+    "metallic": 0.19,
+    "emission": 1.85,
+    "texture": null,
+    "coat": 0
+  },
+  "Amber": {
+    "color": [
+      0.94,
+      0.33,
+      0.07
+    ],
+    "roughness": 0.23,
+    "metallic": 0.23,
+    "emission": 1.55,
+    "texture": null,
+    "coat": 0
+  },
+  "Magenta": {
+    "color": [
+      0.74,
+      0.102,
+      0.3
+    ],
+    "roughness": 0.24,
+    "metallic": 0.17,
+    "emission": 1.3,
+    "texture": null,
+    "coat": 0
+  },
+  "NightGlass": {
+    "color": [
+      0.057,
+      0.141,
+      0.164
+    ],
+    "roughness": 0.23,
+    "metallic": 0.24,
+    "emission": 0,
+    "texture": null,
+    "coat": 0
+  },
+  "WetAsphalt": {
+    "color": [
+      0.038,
+      0.059,
+      0.064
+    ],
+    "roughness": 0.29,
+    "metallic": 0.12,
+    "emission": 0,
+    "texture": "T_Neon_WetAsphalt_BC.png",
+    "coat": 0
+  },
+  "StreetEdge": {
+    "color": [
+      0.13,
+      0.21,
+      0.217
+    ],
+    "roughness": 0.32,
+    "metallic": 0.28,
+    "emission": 0,
+    "texture": null,
+    "coat": 0
+  },
+  "ReflectiveWhite": {
+    "color": [
+      0.56,
+      0.71,
+      0.7
+    ],
+    "roughness": 0.3,
+    "metallic": 0.11,
+    "emission": 0.08,
+    "texture": null,
+    "coat": 0
+  },
+  "ReflectiveGold": {
+    "color": [
+      0.65,
+      0.32,
+      0.074
+    ],
+    "roughness": 0.34,
+    "metallic": 0.13,
+    "emission": 0.1,
+    "texture": null,
+    "coat": 0
+  },
+  "FloodPool": {
+    "color": [
+      0.018,
+      0.105,
+      0.118
+    ],
+    "roughness": 0.09,
+    "metallic": 0.35,
+    "emission": 0,
+    "texture": "T_Neon_FloodPool_BC.png",
+    "coat": 0
+  }
+}

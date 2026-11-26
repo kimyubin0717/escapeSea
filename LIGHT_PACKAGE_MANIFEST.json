@@ -1,0 +1,1998 @@
+{
+  "included_files": 498,
+  "included_bytes": 700887049,
+  "files": [
+    {
+      "path": ".vsconfig",
+      "bytes": 795
+    },
+    {
+      "path": "ABYSSAL_CITY_GUIDE.md",
+      "bytes": 5200
+    },
+    {
+      "path": "Binaries/Win64/UnrealEditor-mama-61117.dll",
+      "bytes": 533504
+    },
+    {
+      "path": "Binaries/Win64/UnrealEditor-mama.dll",
+      "bytes": 522240
+    },
+    {
+      "path": "Binaries/Win64/UnrealEditor.modules",
+      "bytes": 131
+    },
+    {
+      "path": "Binaries/Win64/mamaEditor.target",
+      "bytes": 914371
+    },
+    {
+      "path": "Build Abyss.cmd",
+      "bytes": 611
+    },
+    {
+      "path": "Config/DefaultEditor.ini",
+      "bytes": 0
+    },
+    {
+      "path": "Config/DefaultEngine.ini",
+      "bytes": 3000
+    },
+    {
+      "path": "Config/DefaultGame.ini",
+      "bytes": 180
+    },
+    {
+      "path": "Config/DefaultInput.ini",
+      "bytes": 9026
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Collapse01.uasset",
+      "bytes": 350117
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Collapse02.uasset",
+      "bytes": 348286
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Collapse_Cue.uasset",
+      "bytes": 6817
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Explosion01.uasset",
+      "bytes": 284028
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Explosion02.uasset",
+      "bytes": 290783
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Explosion_Cue.uasset",
+      "bytes": 8398
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Fire01.uasset",
+      "bytes": 551255
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Fire01_Cue.uasset",
+      "bytes": 4901
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Fire_Sparks01.uasset",
+      "bytes": 797852
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Fire_Sparks01_Cue.uasset",
+      "bytes": 4921
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Light01.uasset",
+      "bytes": 366094
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Light01_Cue.uasset",
+      "bytes": 4855
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Light02.uasset",
+      "bytes": 309718
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Light02_Cue.uasset",
+      "bytes": 4855
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Smoke01.uasset",
+      "bytes": 477564
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Smoke01_Cue.uasset",
+      "bytes": 4879
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Starter_Background_Cue.uasset",
+      "bytes": 10317
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Starter_Birds01.uasset",
+      "bytes": 2691034
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Starter_Music01.uasset",
+      "bytes": 8446946
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Starter_Music_Cue.uasset",
+      "bytes": 4211
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Starter_Wind05.uasset",
+      "bytes": 2314275
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Starter_Wind06.uasset",
+      "bytes": 2197112
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Steam01.uasset",
+      "bytes": 820588
+    },
+    {
+      "path": "Content/Audio/AbyssalCity/Steam01_Cue.uasset",
+      "bytes": 4908
+    },
+    {
+      "path": "Content/BPMyActor.uasset",
+      "bytes": 30361
+    },
+    {
+      "path": "Content/Blueprints/AbyssalCity/BP_LightStudio.uasset",
+      "bytes": 668956
+    },
+    {
+      "path": "Content/Blueprints/AbyssalCity/Blueprint_CeilingLight.uasset",
+      "bytes": 122805
+    },
+    {
+      "path": "Content/Blueprints/AbyssalCity/Blueprint_Effect_Explosion.uasset",
+      "bytes": 17196
+    },
+    {
+      "path": "Content/Blueprints/AbyssalCity/Blueprint_Effect_Fire.uasset",
+      "bytes": 17079
+    },
+    {
+      "path": "Content/Blueprints/AbyssalCity/Blueprint_Effect_Smoke.uasset",
+      "bytes": 17102
+    },
+    {
+      "path": "Content/Blueprints/AbyssalCity/Blueprint_Effect_Sparks.uasset",
+      "bytes": 17256
+    },
+    {
+      "path": "Content/Blueprints/AbyssalCity/Blueprint_Effect_Steam.uasset",
+      "bytes": 17118
+    },
+    {
+      "path": "Content/Blueprints/AbyssalCity/Blueprint_WallSconce.uasset",
+      "bytes": 120562
+    },
+    {
+      "path": "Content/Effects/AbyssalCity/P_Ambient_Dust.uasset",
+      "bytes": 57944
+    },
+    {
+      "path": "Content/Effects/AbyssalCity/P_Explosion.uasset",
+      "bytes": 317001
+    },
+    {
+      "path": "Content/Effects/AbyssalCity/P_Fire.uasset",
+      "bytes": 305131
+    },
+    {
+      "path": "Content/Effects/AbyssalCity/P_Smoke.uasset",
+      "bytes": 72512
+    },
+    {
+      "path": "Content/Effects/AbyssalCity/P_Sparks.uasset",
+      "bytes": 204746
+    },
+    {
+      "path": "Content/Effects/AbyssalCity/P_Steam_Lit.uasset",
+      "bytes": 125186
+    },
+    {
+      "path": "Content/Maps/Examples/Advanced_Lighting.umap",
+      "bytes": 63823
+    },
+    {
+      "path": "Content/Maps/Examples/Advanced_Lighting_BuiltData.uasset",
+      "bytes": 1727270
+    },
+    {
+      "path": "Content/Maps/Examples/Minimal_Default.umap",
+      "bytes": 76656
+    },
+    {
+      "path": "Content/Maps/Examples/Minimal_Default_BuiltData.uasset",
+      "bytes": 2497591
+    },
+    {
+      "path": "Content/Maps/Examples/StarterMap.umap",
+      "bytes": 612952
+    },
+    {
+      "path": "Content/Maps/Examples/StarterMap_BuiltData.uasset",
+      "bytes": 22977922
+    },
+    {
+      "path": "Content/Maps/LV_AbyssalCity_Dense.umap",
+      "bytes": 1304513
+    },
+    {
+      "path": "Content/Maps/LV_AbyssalCity_Dense_Playable.umap",
+      "bytes": 1318747
+    },
+    {
+      "path": "Content/Maps/LV_AbyssalCity_Final.umap",
+      "bytes": 603989
+    },
+    {
+      "path": "Content/Maps/LV_AbyssalCity_Mega.umap",
+      "bytes": 465020
+    },
+    {
+      "path": "Content/Maps/LV_AbyssalCity_Ruins.umap",
+      "bytes": 314481
+    },
+    {
+      "path": "Content/Maps/LV_AbyssalCity_Ultimate.umap",
+      "bytes": 386996
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Blueprints/M_LightStage_Arrows.uasset",
+      "bytes": 12292
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Blueprints/M_LightStage_Skybox_Black.uasset",
+      "bytes": 5237
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Blueprints/M_LightStage_Skybox_HDRI.uasset",
+      "bytes": 13502
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Blueprints/M_LightStage_Skybox_Master.uasset",
+      "bytes": 18066
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Buildings/MI_Facade_Financial.uasset",
+      "bytes": 7883
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Buildings/MI_Facade_Hospital.uasset",
+      "bytes": 7875
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Buildings/MI_Facade_Industrial.uasset",
+      "bytes": 7889
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Buildings/MI_Facade_Residential.uasset",
+      "bytes": 7893
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Buildings/M_BuildingFacade.uasset",
+      "bytes": 30492
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Effects/M_Burst.uasset",
+      "bytes": 17711
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Effects/M_Dust_Particle.uasset",
+      "bytes": 10523
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Effects/M_Fire_SubUV.uasset",
+      "bytes": 21492
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Effects/M_Heat_Distortion.uasset",
+      "bytes": 15891
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Effects/M_Radial_Gradient.uasset",
+      "bytes": 12107
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Effects/M_Spark.uasset",
+      "bytes": 11579
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Effects/M_explosion_subUV.uasset",
+      "bytes": 14372
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Effects/M_radial_ramp.uasset",
+      "bytes": 12112
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Effects/M_smoke_subUV.uasset",
+      "bytes": 18452
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Effects/m_flare_01.uasset",
+      "bytes": 15994
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Props/M_Bush.uasset",
+      "bytes": 18215
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Props/M_Chair.uasset",
+      "bytes": 20099
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Props/M_Door.uasset",
+      "bytes": 23242
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Props/M_Frame.uasset",
+      "bytes": 15188
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Props/M_Lamp.uasset",
+      "bytes": 24114
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Props/M_Rock.uasset",
+      "bytes": 24593
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Props/M_Shelf.uasset",
+      "bytes": 16557
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Props/M_Statue.uasset",
+      "bytes": 18552
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Props/M_StatueGlass.uasset",
+      "bytes": 21503
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Props/M_TableRound.uasset",
+      "bytes": 18469
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_AssetPlatform.uasset",
+      "bytes": 10625
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Basic_Floor.uasset",
+      "bytes": 11382
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Basic_Wall.uasset",
+      "bytes": 10759
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Brick_Clay_Beveled.uasset",
+      "bytes": 25092
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Brick_Clay_New.uasset",
+      "bytes": 28698
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Brick_Clay_Old.uasset",
+      "bytes": 36812
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Brick_Cut_Stone.uasset",
+      "bytes": 36357
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Brick_Hewn_Stone.uasset",
+      "bytes": 28802
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Ceramic_Tile_Checker.uasset",
+      "bytes": 29289
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_CobbleStone_Pebble.uasset",
+      "bytes": 27828
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_CobbleStone_Rough.uasset",
+      "bytes": 114590
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_CobbleStone_Smooth.uasset",
+      "bytes": 123949
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_ColorGrid_LowSpec.uasset",
+      "bytes": 11169
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Concrete_Grime.uasset",
+      "bytes": 38854
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Concrete_Panels.uasset",
+      "bytes": 34772
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Concrete_Poured.uasset",
+      "bytes": 33155
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Concrete_Tiles.uasset",
+      "bytes": 34853
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Glass.uasset",
+      "bytes": 15676
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Ground_Grass.uasset",
+      "bytes": 40778
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Ground_Gravel.uasset",
+      "bytes": 34374
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Ground_Moss.uasset",
+      "bytes": 40360
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Metal_Brushed_Nickel.uasset",
+      "bytes": 19139
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Metal_Burnished_Steel.uasset",
+      "bytes": 25030
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Metal_Chrome.uasset",
+      "bytes": 19103
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Metal_Copper.uasset",
+      "bytes": 24217
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Metal_Gold.uasset",
+      "bytes": 24448
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Metal_Rust.uasset",
+      "bytes": 26229
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Metal_Steel.uasset",
+      "bytes": 25900
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Rock_Basalt.uasset",
+      "bytes": 43314
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Rock_Marble_Polished.uasset",
+      "bytes": 36814
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Rock_Sandstone.uasset",
+      "bytes": 39387
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Rock_Slate.uasset",
+      "bytes": 40961
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Tech_Checker_Dot.uasset",
+      "bytes": 28817
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Tech_Hex_Tile.uasset",
+      "bytes": 29509
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Tech_Hex_Tile_Pulse.uasset",
+      "bytes": 28242
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Tech_Panel.uasset",
+      "bytes": 28403
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Water_Lake.uasset",
+      "bytes": 35557
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Water_Ocean.uasset",
+      "bytes": 38595
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Wood_Floor_Walnut_Polished.uasset",
+      "bytes": 25197
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Wood_Floor_Walnut_Worn.uasset",
+      "bytes": 25696
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Wood_Oak.uasset",
+      "bytes": 25696
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Wood_Pine.uasset",
+      "bytes": 33684
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Surfaces/M_Wood_Walnut.uasset",
+      "bytes": 22695
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Variants/M_AlarmRed.uasset",
+      "bytes": 7198
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Variants/M_BioGreen.uasset",
+      "bytes": 7194
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Variants/M_ContainerBlue.uasset",
+      "bytes": 7192
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Variants/M_ContainerOrange.uasset",
+      "bytes": 7240
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Variants/M_ContainerRed.uasset",
+      "bytes": 7186
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Variants/M_HazardYellow.uasset",
+      "bytes": 7222
+    },
+    {
+      "path": "Content/Materials/AbyssalCity/Variants/M_NeonCyan.uasset",
+      "bytes": 7194
+    },
+    {
+      "path": "Content/Misc/AbyssalCity/CurveFloat/FogBrightnessLUT.uasset",
+      "bytes": 4859
+    },
+    {
+      "path": "Content/Misc/AbyssalCity/CurveLinearColor/SunlightColorLUT.uasset",
+      "bytes": 4989
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Architecture/Floor_400x400.uasset",
+      "bytes": 15289
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Architecture/Pillar_50x500.uasset",
+      "bytes": 16375
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Architecture/SM_AssetPlatform.uasset",
+      "bytes": 160049
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Architecture/Wall_400x200.uasset",
+      "bytes": 15855
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Architecture/Wall_400x300.uasset",
+      "bytes": 16053
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Architecture/Wall_400x400.uasset",
+      "bytes": 15939
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Architecture/Wall_500x500.uasset",
+      "bytes": 19144
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Architecture/Wall_Door_400x300.uasset",
+      "bytes": 17683
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Architecture/Wall_Door_400x400.uasset",
+      "bytes": 17554
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Architecture/Wall_Window_400x300.uasset",
+      "bytes": 18526
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Architecture/Wall_Window_400x400.uasset",
+      "bytes": 18321
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Blueprints/SM_Arrows.uasset",
+      "bytes": 191155
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Blueprints/Skybox.uasset",
+      "bytes": 208710
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Primitives/SM_CityBlock.uasset",
+      "bytes": 17043
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Primitives/SM_CityCylinder.uasset",
+      "bytes": 36644
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Primitives/SM_CitySphere.uasset",
+      "bytes": 62098
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Primitives/SM_SeabedBase.uasset",
+      "bytes": 17048
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/MaterialSphere.uasset",
+      "bytes": 47708
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_Bush.uasset",
+      "bytes": 66671
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_Chair.uasset",
+      "bytes": 99027
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_CornerFrame.uasset",
+      "bytes": 38915
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_Couch.uasset",
+      "bytes": 108525
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_Door.uasset",
+      "bytes": 64660
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_DoorFrame.uasset",
+      "bytes": 24061
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_GlassWindow.uasset",
+      "bytes": 36720
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_Lamp_Ceiling.uasset",
+      "bytes": 113464
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_Lamp_Wall.uasset",
+      "bytes": 60490
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_PillarFrame.uasset",
+      "bytes": 43824
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_PillarFrame300.uasset",
+      "bytes": 44714
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_Rock.uasset",
+      "bytes": 72909
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_Shelf.uasset",
+      "bytes": 47039
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_Stairs.uasset",
+      "bytes": 27481
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_Statue.uasset",
+      "bytes": 190817
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_TableRound.uasset",
+      "bytes": 243364
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Props/SM_WindowFrame.uasset",
+      "bytes": 26191
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_Cone.uasset",
+      "bytes": 27162
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_Cube.uasset",
+      "bytes": 17020
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_Cylinder.uasset",
+      "bytes": 31933
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_NarrowCapsule.uasset",
+      "bytes": 49366
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_Pipe.uasset",
+      "bytes": 26822
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_Pipe_180.uasset",
+      "bytes": 85637
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_Pipe_90.uasset",
+      "bytes": 59813
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_Plane.uasset",
+      "bytes": 16530
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_QuadPyramid.uasset",
+      "bytes": 16416
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_Sphere.uasset",
+      "bytes": 39115
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_Torus.uasset",
+      "bytes": 71769
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_TriPyramid.uasset",
+      "bytes": 16235
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_Trim.uasset",
+      "bytes": 21156
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_Trim_90_In.uasset",
+      "bytes": 31219
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_Trim_90_Out.uasset",
+      "bytes": 31482
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_Tube.uasset",
+      "bytes": 41897
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_Wedge_A.uasset",
+      "bytes": 16284
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_Wedge_B.uasset",
+      "bytes": 17445
+    },
+    {
+      "path": "Content/Models/AbyssalCity/Shapes/Shape_WideCapsule.uasset",
+      "bytes": 43467
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+      "bytes": 61842929
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Brick_Clay_Beveled_D.uasset",
+      "bytes": 8198167
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Brick_Clay_Beveled_M.uasset",
+      "bytes": 6966111
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Brick_Clay_Beveled_N.uasset",
+      "bytes": 8225302
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Brick_Clay_New_D.uasset",
+      "bytes": 6206635
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Brick_Clay_New_M.uasset",
+      "bytes": 7244302
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Brick_Clay_New_N.uasset",
+      "bytes": 8235928
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Brick_Clay_Old_D.uasset",
+      "bytes": 11718787
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Brick_Clay_Old_N.uasset",
+      "bytes": 8748437
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Brick_Cut_Stone_D.uasset",
+      "bytes": 14335743
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Brick_Cut_Stone_N.uasset",
+      "bytes": 7088670
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Brick_Hewn_Stone_D.uasset",
+      "bytes": 7782351
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Brick_Hewn_Stone_M.uasset",
+      "bytes": 6538418
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Brick_Hewn_Stone_N.uasset",
+      "bytes": 9818335
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Burst_M.uasset",
+      "bytes": 132420
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Bush_D.uasset",
+      "bytes": 517623
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Bush_N.uasset",
+      "bytes": 400024
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Ceramic_Tile_M.uasset",
+      "bytes": 306919
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Ceramic_Tile_N.uasset",
+      "bytes": 291932
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Chair_M.uasset",
+      "bytes": 524123
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Chair_N.uasset",
+      "bytes": 2318062
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Checker_Noise_M.uasset",
+      "bytes": 233614
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_CobbleStone_Pebble_D.uasset",
+      "bytes": 12112227
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_CobbleStone_Pebble_M.uasset",
+      "bytes": 1473735
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_CobbleStone_Pebble_N.uasset",
+      "bytes": 12205857
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_CobbleStone_Rough_D.uasset",
+      "bytes": 2487223
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_CobbleStone_Rough_N.uasset",
+      "bytes": 2716036
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_CobbleStone_Smooth_D.uasset",
+      "bytes": 6911285
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_CobbleStone_Smooth_M.uasset",
+      "bytes": 5796174
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_CobbleStone_Smooth_N.uasset",
+      "bytes": 9486946
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Concrete_Grime_D.uasset",
+      "bytes": 11002887
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Concrete_Panels_D.uasset",
+      "bytes": 8604831
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Concrete_Panels_N.uasset",
+      "bytes": 6227236
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Concrete_Poured_D.uasset",
+      "bytes": 10484964
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Concrete_Poured_N.uasset",
+      "bytes": 7821890
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Concrete_Tiles_D.uasset",
+      "bytes": 5461845
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Concrete_Tiles_M.uasset",
+      "bytes": 5738535
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Concrete_Tiles_N.uasset",
+      "bytes": 6999415
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Concrete_Tiles_Variation_M.uasset",
+      "bytes": 7759
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Detail_Rocky_N.uasset",
+      "bytes": 2956794
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Door_M.uasset",
+      "bytes": 534562
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Door_N.uasset",
+      "bytes": 1284539
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Dust_Particle_D.uasset",
+      "bytes": 20490
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Explosion_SubUV.uasset",
+      "bytes": 3076126
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Fire_SubUV.uasset",
+      "bytes": 404840
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Fire_Tiled_D.uasset",
+      "bytes": 524209
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Frame_M.uasset",
+      "bytes": 544050
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Frame_N.uasset",
+      "bytes": 1492190
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Gradinet_01.uasset",
+      "bytes": 8109
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Ground_Grass_D.uasset",
+      "bytes": 11343251
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Ground_Grass_N.uasset",
+      "bytes": 12251981
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Ground_Gravel_D.uasset",
+      "bytes": 11668141
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Ground_Gravel_N.uasset",
+      "bytes": 8225458
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Ground_Moss_N.uasset",
+      "bytes": 9712650
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Lamp_M.uasset",
+      "bytes": 737663
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Lamp_N.uasset",
+      "bytes": 2404621
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_MacroVariation.uasset",
+      "bytes": 9995116
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Metal_Aluminum_D.uasset",
+      "bytes": 9688326
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Metal_Copper_D.uasset",
+      "bytes": 9802725
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Metal_Gold_D.uasset",
+      "bytes": 9808009
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Metal_Gold_N.uasset",
+      "bytes": 3016749
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Metal_Rust_D.uasset",
+      "bytes": 9252673
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Metal_Rust_N.uasset",
+      "bytes": 8175327
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Metal_Steel_D.uasset",
+      "bytes": 3318009
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Metal_Steel_N.uasset",
+      "bytes": 5683838
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Perlin_Noise_M.uasset",
+      "bytes": 6796374
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_RockMesh_M.uasset",
+      "bytes": 2897648
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_RockMesh_N.uasset",
+      "bytes": 6188096
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Rock_Basalt_D.uasset",
+      "bytes": 8732798
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Rock_Basalt_N.uasset",
+      "bytes": 8715631
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Rock_Marble_Polished_D.uasset",
+      "bytes": 5183041
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Rock_Sandstone_D.uasset",
+      "bytes": 10286026
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Rock_Sandstone_N.uasset",
+      "bytes": 9227881
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Rock_Slate_D.uasset",
+      "bytes": 13197191
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Rock_Slate_N.uasset",
+      "bytes": 10344092
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Rock_Smooth_Granite_D.uasset",
+      "bytes": 7909098
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Shelf_M.uasset",
+      "bytes": 638367
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Shelf_N.uasset",
+      "bytes": 1976706
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Single_Tile_N.uasset",
+      "bytes": 9716
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Smoke_SubUV.uasset",
+      "bytes": 2492418
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Smoke_Tiled_D.uasset",
+      "bytes": 51795
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Spark_Core.uasset",
+      "bytes": 135878
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Statue_M.uasset",
+      "bytes": 582972
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Statue_N.uasset",
+      "bytes": 608185
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_TableRound_M.uasset",
+      "bytes": 856269
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_TableRound_N.uasset",
+      "bytes": 1798684
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Tech_Dot_M.uasset",
+      "bytes": 100130
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Tech_Dot_N.uasset",
+      "bytes": 187110
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Tech_Hex_Tile_M.uasset",
+      "bytes": 742876
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Tech_Hex_Tile_N.uasset",
+      "bytes": 422675
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Tech_Panel_M.uasset",
+      "bytes": 938934
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Tech_Panel_N.uasset",
+      "bytes": 2256998
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Water_M.uasset",
+      "bytes": 1828091
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Water_N.uasset",
+      "bytes": 2554627
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Wood_Floor_Walnut_D.uasset",
+      "bytes": 4874301
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Wood_Floor_Walnut_M.uasset",
+      "bytes": 3840007
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Wood_Floor_Walnut_N.uasset",
+      "bytes": 3393771
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Wood_Oak_D.uasset",
+      "bytes": 9133311
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Wood_Oak_N.uasset",
+      "bytes": 6779050
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Wood_Pine_D.uasset",
+      "bytes": 9768999
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Wood_Pine_N.uasset",
+      "bytes": 4255246
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Wood_Walnut_D.uasset",
+      "bytes": 9390966
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_Wood_Walnut_N.uasset",
+      "bytes": 4551323
+    },
+    {
+      "path": "Content/Textures/AbyssalCity/Surfaces/T_ground_Moss_D.uasset",
+      "bytes": 13819663
+    },
+    {
+      "path": "Content/UI/index.html",
+      "bytes": 2303
+    },
+    {
+      "path": "Content/UI/scripts/app.js",
+      "bytes": 21245
+    },
+    {
+      "path": "Content/UI/scripts/inventory.js",
+      "bytes": 1709
+    },
+    {
+      "path": "Content/UI/scripts/ko.js",
+      "bytes": 3272
+    },
+    {
+      "path": "Content/UI/scripts/menu.js",
+      "bytes": 6998
+    },
+    {
+      "path": "Content/UI/styles/hologram.css",
+      "bytes": 6007
+    },
+    {
+      "path": "Content/UI/styles/inventory-telemetry.css",
+      "bytes": 3095
+    },
+    {
+      "path": "Content/UI/styles/korean.css",
+      "bytes": 1911
+    },
+    {
+      "path": "Content/UI/styles/menu.css",
+      "bytes": 4998
+    },
+    {
+      "path": "Content/UI/styles/styles.css",
+      "bytes": 9218
+    },
+    {
+      "path": "Content/Untitled.umap",
+      "bytes": 12912
+    },
+    {
+      "path": "Content/Untitled_HLOD0_Instancing.uasset",
+      "bytes": 1529
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/0/4P/FVZCFAHYN261SLBGVKYLQ2.uasset",
+      "bytes": 68251
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/0/8Y/SDDUZVFBIE0MB1SKJOTUE0.uasset",
+      "bytes": 408227
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/0/95/8WUYYCMXX15BI3ANA0HQL2.uasset",
+      "bytes": 68149
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/0/AC/HOVTEE68G7VAJSFOUK370Q.uasset",
+      "bytes": 62789
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/0/BC/U8A7EELOY8P7KI64DKFYDH.uasset",
+      "bytes": 66818
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/0/JR/96V7FEXIDQ6YRE9WCXTO3L.uasset",
+      "bytes": 68186
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/0/YK/K6UPO231BY2JGT7QL36BEO.uasset",
+      "bytes": 3611
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/1/16/BFWQBLV6I27BBRHR1PJOLX.uasset",
+      "bytes": 67973
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/1/1R/M0B50OLRXLIM0AHT0NV3LE.uasset",
+      "bytes": 464087
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/1/31/YMWLVZUS39SZKKP6EY3D02.uasset",
+      "bytes": 67567
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/1/4F/HHY9CLN6GWOEY7MEKH8DDK.uasset",
+      "bytes": 51374
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/1/6B/A90KN4PDF9BYSQDRPALM93.uasset",
+      "bytes": 45108
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/1/88/91A6XDDNFM52BRAOQB9C7N.uasset",
+      "bytes": 272867
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/1/E8/7OERKV5DBN9AKH9OGFA22L.uasset",
+      "bytes": 432070
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/1/FB/UZK8LGMDWLF7LHM5AQVVMX.uasset",
+      "bytes": 466518
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/1/JL/ZK9VQR5UXVP37810TVO5YO.uasset",
+      "bytes": 3715
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/1/JZ/TVNAEBT2XB4FBCJVHSWPJG.uasset",
+      "bytes": 67861
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/1/QI/A0ZTV8S9W9Y0PRY5NNQJKU.uasset",
+      "bytes": 67906
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/1/WJ/7L5OB0P2MOJN0JVT0IO388.uasset",
+      "bytes": 457982
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/1/X9/T0P80E587PN0FI1P1SY900.uasset",
+      "bytes": 454424
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/1/ZP/X3NZJS0FIHM08ZXW8E8NQU.uasset",
+      "bytes": 45101
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/1/ZR/BS9RFRC48BZCNCJGUFIL41.uasset",
+      "bytes": 377973
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/2/4P/W7D96E3DYPPMYMJWHCHJ59.uasset",
+      "bytes": 67753
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/2/7W/JK8UCU1PU2ABZQP90FEX7I.uasset",
+      "bytes": 67850
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/2/9L/EOQQBNIX06TRZ5JKHNXS6H.uasset",
+      "bytes": 45105
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/2/B5/9L52R62XVE5E9BH06KPJKH.uasset",
+      "bytes": 67238
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/2/FS/YFTU31AIP02GLV9QYB3OAQ.uasset",
+      "bytes": 461639
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/2/MO/TAQEW1E1C82JUFXW9HST5I.uasset",
+      "bytes": 67082
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/2/PM/UNP76Q21SVMI272RXI3AGK.uasset",
+      "bytes": 68031
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/2/TD/9EBCA33K4RSQN59I5SZIQH.uasset",
+      "bytes": 481107
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/2/WJ/HOOYUZ3RW2QWE5BEYDM11G.uasset",
+      "bytes": 67898
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/3/03/C9M91X2IU3VSISEPAAR2J6.uasset",
+      "bytes": 262090
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/3/0C/B2JMGSH9XFZI7GT8M36JMF.uasset",
+      "bytes": 5811
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/3/3W/Q0EVUK3U5XPDZDNHKTBSLP.uasset",
+      "bytes": 389472
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/3/5C/V2OCRSLOSFHUS6S9LPDM10.uasset",
+      "bytes": 456646
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/3/8Y/PEVY7T6FU8CAR13QMRYRHH.uasset",
+      "bytes": 67781
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/3/AK/MAPJMW9NWYWC79NT2QNDDW.uasset",
+      "bytes": 67723
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/3/AP/1KJ2KRD4PP3Z0SLYN7WFIE.uasset",
+      "bytes": 451300
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/3/AX/XID5TZXXMZIHV596JMGTU7.uasset",
+      "bytes": 434220
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/3/LB/DFA9VVD121ROTY5NBEC13Y.uasset",
+      "bytes": 53977
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/3/LO/2L34HDZPM4CJROKPRLKZ5E.uasset",
+      "bytes": 452168
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/3/SV/A9DJ5UP9TCM1HX8LNL9YMB.uasset",
+      "bytes": 453491
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/4/DG/S0UKF9OUZ4ZHKU3LHS4676.uasset",
+      "bytes": 447153
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/4/IA/99IPYCIBP4EO70G7NCXO6D.uasset",
+      "bytes": 65869
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/4/IX/QB4R3CRHV6SQ401B0EBGID.uasset",
+      "bytes": 50862
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/4/RS/WMTOUKEV8K3FHUM25G8BWJ.uasset",
+      "bytes": 64203
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/4/S4/QQGZ7DAJCRY5GXHVDJWZ63.uasset",
+      "bytes": 64324
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/4/TV/GKOPEC6UIIHJ9LBXKLD7UM.uasset",
+      "bytes": 459317
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/4/UM/B5BRDG8V1RJL3TWM4HR0OJ.uasset",
+      "bytes": 66759
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/5/02/IJ8HC1RVA6VSYU9C7T2FX4.uasset",
+      "bytes": 66190
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/5/6P/TZTEGS7BV2V5AXK97N4747.uasset",
+      "bytes": 270733
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/5/P9/Y5TXGWIE2U6BVSRHM3CBRL.uasset",
+      "bytes": 450052
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/5/PT/I1CXE7YA8N7EOIF6S2LUNU.uasset",
+      "bytes": 456153
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/5/UN/91AWBJM8S09UURPMEJNTUG.uasset",
+      "bytes": 51330
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/5/XC/PTON9ZHKVA2YYM6OQVKGB2.uasset",
+      "bytes": 435298
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/5/YI/ZJ11KYNNPW461PLOWQD26D.uasset",
+      "bytes": 449320
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/5/YO/RTR8JDENQERG3GOYNFL652.uasset",
+      "bytes": 462221
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/6/2F/4YJUFZ5EQ0DYYJ7YPLLALQ.uasset",
+      "bytes": 466771
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/6/78/NR4DRMJJN85GU6E9FTRA0C.uasset",
+      "bytes": 462725
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/6/AL/EUPIOBVK6UMCF23HOCCEU3.uasset",
+      "bytes": 442398
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/6/KE/OIGRKUBFQ7K03JW0AYCTV5.uasset",
+      "bytes": 385744
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/6/T6/JZ5OSIKWQ7NAUADHTIMLAW.uasset",
+      "bytes": 68178
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/6/UV/743850F9OQFI148N0HVRR0.uasset",
+      "bytes": 68106
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/6/WU/6N24LSH1JBQH6WL2ATPWE1.uasset",
+      "bytes": 443439
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/7/2A/3SH27DERCHJSHZDQM19U56.uasset",
+      "bytes": 446399
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/7/FE/YB3M9P5BEKTAG0L64PFTJ3.uasset",
+      "bytes": 67876
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/7/KO/HBTFQ946P5JEK2VINSXFF6.uasset",
+      "bytes": 462936
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/7/L8/Y18E0V91UKJME7Q2OB3P5K.uasset",
+      "bytes": 3596
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/7/SM/8F2B8YK2YY1FSYJ4CDD1LZ.uasset",
+      "bytes": 67121
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/7/UU/T0ZQNCIJWLLSMBV45U9UNS.uasset",
+      "bytes": 413677
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/7/VH/UKHYJQL74V2MP5LKZYHH11.uasset",
+      "bytes": 68017
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/7/ZL/BO205AVTF1H51WLJULZKDE.uasset",
+      "bytes": 67435
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/8/15/9YKH8L8Z5C0IIMN27KK2VZ.uasset",
+      "bytes": 54527
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/8/4O/6JQEC7C7J07T44BN9XRKKB.uasset",
+      "bytes": 67356
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/8/78/J445VYKJUTLNEBUTN5JFSX.uasset",
+      "bytes": 460102
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/8/ER/5M1849BTWZ388ZXQKPK7AB.uasset",
+      "bytes": 68444
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/8/GX/L3LD2P7KMUNO4QPHEMBTVD.uasset",
+      "bytes": 67798
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/8/IV/H0MMTUZ996JY5Z931CM553.uasset",
+      "bytes": 438681
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/8/KG/P4FT47HC1MCSOGH2WSE38M.uasset",
+      "bytes": 478103
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/8/OF/9WTLWT7YQX2L3Q3TAT0130.uasset",
+      "bytes": 67948
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/8/RC/KUGNOG85HLKEE7Q39VX85T.uasset",
+      "bytes": 440040
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/8/SI/X9FK3ZHPHSO5EQPDKGIUR6.uasset",
+      "bytes": 452640
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/9/44/XDORVWH31K9O5U948J6UPN.uasset",
+      "bytes": 457455
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/9/BE/ZFTWYVA2AW3K7IZGVNFI9L.uasset",
+      "bytes": 461276
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/9/BQ/9DT5QPLF7KD6YB8VPR7LE1.uasset",
+      "bytes": 457639
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/9/GA/EWFQW0H0JLO8BKRI7U64K2.uasset",
+      "bytes": 67279
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/9/JV/7908X05DEKYVMHZDGVEVFX.uasset",
+      "bytes": 66092
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/9/K0/21YIO1N87PSV94GJ48ZOX7.uasset",
+      "bytes": 422238
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/9/KQ/CUA374J9FP9AFFTXJ7T5ZP.uasset",
+      "bytes": 66974
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/9/L8/XEWYHE4USPJO8RYIZ048VS.uasset",
+      "bytes": 67412
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/9/MA/NHJ192PDCQXCXQ2HQBMY8K.uasset",
+      "bytes": 68357
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/9/Y5/82VFC1UWWA110XOOEJ158E.uasset",
+      "bytes": 394834
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/A/AG/KECGBPL7YSM95LL88MMB8I.uasset",
+      "bytes": 429797
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/A/DW/8L46K1WD89YDHPA4PA1YQO.uasset",
+      "bytes": 449436
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/A/GQ/Z1GJ8KGAV56S5I7H40160C.uasset",
+      "bytes": 439279
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/A/II/4DHYLSBPUFMH473Q8O9S2B.uasset",
+      "bytes": 67418
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/A/IV/F2UCV3PMQVPC9OA6Y0XXG3.uasset",
+      "bytes": 370993
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/A/KQ/2XH64GEWX5DX4PBIMSZNI2.uasset",
+      "bytes": 67772
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/A/TZ/H7X8SJH9IRNM65SZGY3GOB.uasset",
+      "bytes": 52378
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/A/YA/AK1XLDR5V9IUUYHS9LT826.uasset",
+      "bytes": 66590
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/A/YZ/YX06X250S5OVC9ACDIZ2EJ.uasset",
+      "bytes": 446570
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/B/19/N0FO3VW9PMSIQGODLR8OHK.uasset",
+      "bytes": 455373
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/B/3B/TMAFS2SESKUD4KOAG2NJ49.uasset",
+      "bytes": 440818
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/B/BT/16KZACDPXTP4Z8S5D4BZ0W.uasset",
+      "bytes": 52238
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/B/HE/6XMYFGC6A8NS1PR1SOBI7D.uasset",
+      "bytes": 67924
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/B/JP/PRDWJX5HHWIFD0T7RJ6OUB.uasset",
+      "bytes": 452314
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/C/1Y/5H7RHZCAR91A9DL66DYQZ1.uasset",
+      "bytes": 68421
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/C/26/ZBUFF8X49WNUB8XW4T6JOF.uasset",
+      "bytes": 471326
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/C/8L/3CODS11OI75V0WX0JS91GF.uasset",
+      "bytes": 369342
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/C/JJ/2KM5RW3RB8MQTC5Z5QAP86.uasset",
+      "bytes": 741572
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/C/MF/T2KIT9WWA5O7U7KOOMME36.uasset",
+      "bytes": 51074
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/C/R8/U69SAKGZ8JYPM3OB6EX0QD.uasset",
+      "bytes": 67239
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/C/S6/LDLY18TSK27TZFUDPMCEW5.uasset",
+      "bytes": 63066
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/C/UL/FCX003UHDFE1XFF1UYEKB8.uasset",
+      "bytes": 453181
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/C/VA/5H66W3HWF2PTGWEWXIG0XI.uasset",
+      "bytes": 67087
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF.uasset",
+      "bytes": 2326
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/C/X9/8ASSQYJI2TVL4NB03GHN2Y.uasset",
+      "bytes": 67622
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/D/1Y/LOC77QZ3MD1ZFKG90D5EP3.uasset",
+      "bytes": 455787
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/D/39/H32T5U1Q8KNHDYD5J4ES73.uasset",
+      "bytes": 297151
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/D/4A/ABY732A12WGV65UUF87JLR.uasset",
+      "bytes": 67820
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/D/4X/GN0XA8QGIIL4B5QHYDFPY9.uasset",
+      "bytes": 65666
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/D/AY/1YG3IP1RLO5CDOBVQ0W0RA.uasset",
+      "bytes": 468771
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/D/BA/QUO0AEFJ38VWG80ZC1OF80.uasset",
+      "bytes": 447696
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/D/C1/HS6V3BNZ7H6AKPXHPEX1M7.uasset",
+      "bytes": 4382
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/D/EI/4QOQXMV1Z7RA8SARUL0Y9E.uasset",
+      "bytes": 67822
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/D/FV/1KGJYU8K12XHN6XNLSYMBQ.uasset",
+      "bytes": 5382
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/D/N3/83YOOR0H2EPQ81F5LWFO38.uasset",
+      "bytes": 67328
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/D/NM/BA3WQIS9O921IEUJ5HLEG5.uasset",
+      "bytes": 453660
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/D/PU/4DA3AUPUZMAQWTIQT205ZY.uasset",
+      "bytes": 434179
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/D/SW/W8795T2GDG12XXM5U16N9I.uasset",
+      "bytes": 381441
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/D/U3/F9ZCV1ZQZIEFW41ASA7N1E.uasset",
+      "bytes": 5041
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/D/UC/84I1258OPSKDPG5SEL0985.uasset",
+      "bytes": 63797
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/E/2Y/OJWKRQAOOT0OHBWZTOW73R.uasset",
+      "bytes": 45130
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/E/7X/0GCTIMNEBVF8AOXPOXOJMW.uasset",
+      "bytes": 3774
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/E/8H/YI6CESF0ABS9YDUZ2U1YG8.uasset",
+      "bytes": 67694
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/E/F1/MDBU119X329MP1N6H3D543.uasset",
+      "bytes": 458407
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/E/KM/6LU1RLRCO82PA3M8IZWHFG.uasset",
+      "bytes": 368300
+    },
+    {
+      "path": "Content/__ExternalActors__/Untitled/E/MU/LNHD27GINT2578B3TZYQRM.uasset",
+      "bytes": 438289
+    },
+    {
+      "path": "Content/__ExternalObjects__/Untitled/1/A5/R3LGPWB6PMS7IVCUS30K59.uasset",
+      "bytes": 1828
+    },
+    {
+      "path": "Content/__ExternalObjects__/Untitled/4/HU/B285Y38RMUAD5X0BOB317C.uasset",
+      "bytes": 1757
+    },
+    {
+      "path": "Content/__ExternalObjects__/Untitled/8/MK/U2AR470CV8I49WKHE35892.uasset",
+      "bytes": 1942
+    },
+    {
+      "path": "Content/__ExternalObjects__/Untitled/8/WO/VW6BB6ON1O5P9P6D4TNIKG.uasset",
+      "bytes": 1906
+    },
+    {
+      "path": "Content/__ExternalObjects__/Untitled/B/8X/IY4PEMN9UZYDE7BEBHFW5H.uasset",
+      "bytes": 1814
+    },
+    {
+      "path": "Open Abyssal City.cmd",
+      "bytes": 418
+    },
+    {
+      "path": "PAUSED_WORK.md",
+      "bytes": 1965
+    },
+    {
+      "path": "PLAY_GUIDE.md",
+      "bytes": 7569
+    },
+    {
+      "path": "PROGRESS.md",
+      "bytes": 17734
+    },
+    {
+      "path": "Play Abyss.cmd",
+      "bytes": 613
+    },
+    {
+      "path": "Source/mama.Target.cs",
+      "bytes": 387
+    },
+    {
+      "path": "Source/mama/AbyssGame.h",
+      "bytes": 41
+    },
+    {
+      "path": "Source/mama/CodingTest.cpp",
+      "bytes": 588
+    },
+    {
+      "path": "Source/mama/CodingTest.h",
+      "bytes": 543
+    },
+    {
+      "path": "Source/mama/MyActor.cpp",
+      "bytes": 722
+    },
+    {
+      "path": "Source/mama/MyActor.h",
+      "bytes": 832
+    },
+    {
+      "path": "Source/mama/Private/AI/AbyssHunters.cpp",
+      "bytes": 3092
+    },
+    {
+      "path": "Source/mama/Private/Characters/AbyssDiver.cpp",
+      "bytes": 8918
+    },
+    {
+      "path": "Source/mama/Private/Common/AbyssShared.h",
+      "bytes": 554
+    },
+    {
+      "path": "Source/mama/Private/Game/AbyssGameMode.cpp",
+      "bytes": 12791
+    },
+    {
+      "path": "Source/mama/Private/Inventory/AbyssInventoryComponent.cpp",
+      "bytes": 3547
+    },
+    {
+      "path": "Source/mama/Private/Player/AbyssController.cpp",
+      "bytes": 2123
+    },
+    {
+      "path": "Source/mama/Private/Tests/AbyssSmokeTest.cpp",
+      "bytes": 12718
+    },
+    {
+      "path": "Source/mama/Private/UI/AbyssHUD.cpp",
+      "bytes": 14551
+    },
+    {
+      "path": "Source/mama/Private/UI/AbyssUIComponent.cpp",
+      "bytes": 12292
+    },
+    {
+      "path": "Source/mama/Private/World/AbyssWorld.cpp",
+      "bytes": 15169
+    },
+    {
+      "path": "Source/mama/Private/ddddddd.cpp",
+      "bytes": 527
+    },
+    {
+      "path": "Source/mama/Public/Game/AbyssGame.h",
+      "bytes": 6160
+    },
+    {
+      "path": "Source/mama/Public/Inventory/AbyssInventoryComponent.h",
+      "bytes": 745
+    },
+    {
+      "path": "Source/mama/Public/UI/AbyssUIComponent.h",
+      "bytes": 1046
+    },
+    {
+      "path": "Source/mama/Public/ddddddd.h",
+      "bytes": 534
+    },
+    {
+      "path": "Source/mama/mama.Build.cs",
+      "bytes": 1086
+    },
+    {
+      "path": "Source/mama/mama.cpp",
+      "bytes": 211
+    },
+    {
+      "path": "Source/mama/mama.h",
+      "bytes": 126
+    },
+    {
+      "path": "Source/mamaEditor.Target.cs",
+      "bytes": 401
+    },
+    {
+      "path": "Tools/audit_abyssal_references.ps1",
+      "bytes": 1855
+    },
+    {
+      "path": "Tools/build_compact_city.py",
+      "bytes": 12113
+    },
+    {
+      "path": "Tools/complete_city_assets.py",
+      "bytes": 220
+    },
+    {
+      "path": "Tools/finalize_abyssal_city.py",
+      "bytes": 2654
+    },
+    {
+      "path": "Tools/improve_city_facades.py",
+      "bytes": 7372
+    },
+    {
+      "path": "Tools/inspect_abyssal_city.py",
+      "bytes": 991
+    },
+    {
+      "path": "Tools/integrate_abyssal_city.py",
+      "bytes": 3590
+    },
+    {
+      "path": "Tools/organize_abyssal_assets.py",
+      "bytes": 4011
+    },
+    {
+      "path": "Tools/package_lightweight.py",
+      "bytes": 5124
+    },
+    {
+      "path": "UI/README.md",
+      "bytes": 7513
+    },
+    {
+      "path": "UI/index.html",
+      "bytes": 204
+    },
+    {
+      "path": "mama.uproject",
+      "bytes": 383
+    }
+  ]
+}

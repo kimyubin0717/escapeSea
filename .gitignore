@@ -1,0 +1,32 @@
+# Unreal generated project files
+/Binaries/
+/Build/Windows/FileOpenOrder/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+Plugins/**/Intermediate/
+Plugins/**/Binaries/
+
+# Local IDE settings and generated solutions
+/.vs/
+/.idea/
+*.sln
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Local caches, credentials, and temporary backups
+__pycache__/
+node_modules/
+*.pyc
+*.log
+*.blend1
+*.blend2
+.env
+.env.*
+!.env.example
+
+# Local release output
+/EscapeSeaRelease/
+/이스케이프 씨.zip

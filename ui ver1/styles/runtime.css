@@ -1,0 +1,5 @@
+body.runtime > .toolbar,body.runtime aside.controls{display:none!important}
+body.runtime,body.runtime main,body.runtime #viewport{background:transparent!important;margin:0;width:100vw;height:100vh;overflow:hidden}
+body.runtime main{display:block}
+body.runtime #viewport{aspect-ratio:auto;border:0;box-shadow:none}
+body.runtime #screen:not(.title-screen){background:transparent!important}

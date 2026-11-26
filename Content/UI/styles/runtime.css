@@ -1,0 +1,9 @@
+body.runtime > .toolbar,body.runtime aside.controls{display:none!important}
+body.runtime,body.runtime main,body.runtime #viewport{background:transparent!important;margin:0;padding:0;width:100vw;height:100vh;overflow:hidden}
+body.runtime main{display:block}
+body.runtime #viewport{aspect-ratio:auto;border:0;box-shadow:none}
+body.runtime #screen:not(.title-screen){background:transparent!important}
+.condition-dim{position:absolute;inset:0;background:rgba(0,0,0,.55);pointer-events:none}
+.frame.condition{right:28px;top:95px;width:355px;pointer-events:none;border-color:var(--gold)}
+.condition small{display:block;margin-top:8px;color:var(--gold)}
+.game-date{font-size:18px;line-height:1.5;color:var(--gold);white-space:nowrap}

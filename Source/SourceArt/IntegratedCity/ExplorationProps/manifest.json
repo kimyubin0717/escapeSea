@@ -1,0 +1,40 @@
+{
+  "materials": {
+    "M_ExplorerSteel": {
+      "color": [
+        0.045,
+        0.16,
+        0.18,
+        1
+      ],
+      "metallic": 0.0,
+      "roughness": 0.55
+    },
+    "M_ExplorerBrass": {
+      "color": [
+        0.65,
+        0.4,
+        0.14,
+        1
+      ],
+      "metallic": 1.0,
+      "roughness": 0.38
+    },
+    "M_ExplorerWood": {
+      "color": [
+        0.24,
+        0.11,
+        0.045,
+        1
+      ],
+      "metallic": 0.0,
+      "roughness": 0.74
+    }
+  },
+  "objects": [
+    "SM_CityBankSafeClosed",
+    "SM_CityBankSafeOpen",
+    "SM_CityMarketCrateClosed",
+    "SM_CityMarketCrateOpen"
+  ]
+}
